@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.button{
+  margin-right: 60%;
+  margin-left: 0%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+      
+}
+.b{
+  padding-right: 1%;
+  display: inline-block;
+}
+.classe{
+   margin-right: 60%;
+  margin-left: 0%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+
+}

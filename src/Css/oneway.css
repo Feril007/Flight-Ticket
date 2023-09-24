@@ -1,0 +1,24 @@
+.box{
+    
+    background-color: rgb(130, 174, 149);  
+    color: white;
+    margin-top: 5%;
+    margin-right: 55%;
+    margin-left: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  
+  }
+
+
+  .from{
+      padding-left: 2.5%;
+
+  }
+
+  .header{
+    size:"large";
+    background-color: seagreen;
+    height: 5px !important;
+    text-align:'right';
+  }
